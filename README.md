@@ -28,12 +28,13 @@ Here are some ideas to get you started:
  <a href="https://github.com/xellos88/mini_board">PHP로 만든 게시판</a><br>
 </p>
 
-<h3><b><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>Team Project (2023-04-18 ~ 2023-08-03)</b></h3>
+<h3 align="center" dir="auto"><b><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>Team Project (2023-04-18 ~ 2023-08-03)</b></h3>
 
 <p align="center" dir="auto">
  <a href="https://github.com/PHP-506-1-FESTIVAL/prototype">2차&3차 프로젝트 / 공공 API를 활용한 축제 정보 및 커뮤니티 사이트</a><br>
  <a href="https://github.com/PHP-506-5/Team5-Project1">1차 프로젝트 / TO DO LIST</a><br>
 </p>
+
 <!-- <p align="center" dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b2f753043167085456da48fadc38e1af3f1dcbc015c8f89cb3f9aa1389a0243b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242342e7376673f267374796c653d666c61742d737175617265266c6f676f3d504850266c6f676f436f6c6f723d7768697465"><img alt="PHP" src="https://camo.githubusercontent.com/b2f753043167085456da48fadc38e1af3f1dcbc015c8f89cb3f9aa1389a0243b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242342e7376673f267374796c653d666c61742d737175617265266c6f676f3d504850266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/PHP-777BB4.svg?&amp;style=flat-square&amp;logo=PHP&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/61e886a5922dcf626e1f3e6eeaa04370aa3a8ae9c02374e97704efae6a190928/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6172696144422d3030333534352e7376673f267374796c653d666c61742d737175617265266c6f676f3d4d617269614442266c6f676f436f6c6f723d7768697465"><img alt="MariaDB" src="https://camo.githubusercontent.com/61e886a5922dcf626e1f3e6eeaa04370aa3a8ae9c02374e97704efae6a190928/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6172696144422d3030333534352e7376673f267374796c653d666c61742d737175617265266c6f676f3d4d617269614442266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MariaDB-003545.svg?&amp;style=flat-square&amp;logo=MariaDB&amp;logoColor=white" style="max-width: 100%;"></a>
