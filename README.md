@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  <a href="https://github.com/xellos88/mini_board">PHP로 만든 게시판</a><br>
 </p>
 
-<h3><b><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>Team Project (2023-04-18 ~ 2023-08-03)</b></h3>h3>
+<h3><b><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>Team Project (2023-04-18 ~ 2023-08-03)</b></h3>
 
 <p align="center" dir="auto">
  <a href="https://github.com/PHP-506-1-FESTIVAL/prototype">2차&3차 프로젝트 / 공공 API를 활용한 축제 정보 및 커뮤니티 사이트</a><br>
